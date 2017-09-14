@@ -23,7 +23,7 @@ The team decided to use Android Studio to create an android application. The ser
 * HTTP Protocol to exchange data in JSON format. This pattern is also called REST.
 * *Server - Use nodeJS (HTTP server)*.
 
-##### Phase zero 
+##### Steps for Github
 
 * Always pull before anything make sure your master and your current working branch are up to date to check type git status, since we will just be working on our own individual branches we just need to update our branches to the master branch to do so type git pull origin master this will pull the files from the master repo in to your current working branch
 
@@ -31,7 +31,7 @@ The team decided to use Android Studio to create an android application. The ser
 
 * After you make changes the sequence of commands are git add . git commit -m "message explainging the changes you have made in that push" if it is the first time you are pushing with that branch you have to set it up as an upstream to do so type git push -u origin "branch name" if the branch has already been set up as an upstream you can simply type git push
 
-Congrats you pushed to your branch\
+Congrats you pushed to your branch
 
 Once youve pushed to your branch and you want to merge them with the master brach you have to send a pull request through the website from there the owner of the repo will accept or decline the pull request
 
