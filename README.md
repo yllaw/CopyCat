@@ -1,4 +1,7 @@
 # CopyCat
-test (somebody needs to delete this - marco)
-Hello !- stephanie
-I tried
+Ways to push into a repo for dummies:
+git checkout Emily
+git pull
+git add .
+git commit -m"fileName"
+git push
