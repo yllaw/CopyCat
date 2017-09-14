@@ -1,10 +1,14 @@
 # CopyCat
 Steps To Git--
-1.Always pull before anything make sure you are in the master branch
-to get to master branch type git checkout master once you are in master
-pull from master repo git pull
+
+1.Always pull before anything make sure your master and your current working branch are up to date
+to check type git status, since we will just be working on our own individual branches 
+we just need to update our branches to the master branch to do so type git pull origin master
+this will pull the files from the master repo in to your current working branch
+
 2.When you are up to date with master you can now make changes make sure
 you are making changes while in your branch(git checkout "your branch name")
+
 3.After you make changes the sequence of commands are git add .
 git commit -m "message explainging the changes you have made in that push"
 if it is the first time you are pushing with that branch you have to set it up
