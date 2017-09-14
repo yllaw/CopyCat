@@ -1,2 +1,6 @@
 # CopyCat
-test (somebody needs to delete this - marco)
+<!--git pull
+    Always work in your branch!
+    git add
+    git commit
+    git push-->
