@@ -1,12 +1,4 @@
 # CopyCat
-<<<<<<< HEAD
-<<<<<<< HEAD
-<!--git pull
-    Always work in your branch!
-    git add
-    git commit
-    git push-->
-=======
 Steps To Git--
 1.Always pull before anything make sure you are in the master branch
 to get to master branch type git checkout master once you are in master
@@ -24,8 +16,7 @@ Congrats you pushed to your branch
 Once youve pushed to your branch and you want to merge them with the master brach
 you have to send a pull request through the website from there the owner of the
 repo will accept or decline the pull request
->>>>>>> 893f88e5b6b184e63ab4a2433fe6a19a27d344ed
-=======
+
 **Our Goals**
 * Learn about networking.
 * The whole development cycle. 
@@ -81,4 +72,4 @@ Once you've pushed to your branch and you want to merge them with the master bra
 * Create a test client to test a nodeJS server. Create a server and client in Java. 
 * Research how to use Java to send and receive JSON via HTTP.
 
->>>>>>> origin/master
+
