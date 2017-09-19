@@ -3,7 +3,7 @@
 * Learn about networking.
 * The whole development cycle. 
 * How to transform business requirement to software development plan.
-* How to we decide to do what and when?
+* How do we decide to do what and when?
 
 ## Plan
 
