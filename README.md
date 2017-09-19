@@ -33,7 +33,7 @@ The team decided to use Android Studio to create an android application. The ser
 
 Congrats you pushed to your branch
 
-Once youve pushed to your branch and you want to merge them with the master brach you have to send a pull request through the website from there the owner of the repo will accept or decline the pull request
+Once you've pushed to your branch and you want to merge them with the master brach you have to send a pull request through the website from there the owner of the repo will accept or decline the pull request
 
 ## Work History
 ##### ~Phase zero 	: Getting Started (TODO: 9/9/17)~
